@@ -27,7 +27,7 @@ A controlled negative result. Trained a VAE, an AAE and a GAN to synthesise whal
 
 ### Coursework worth a look
 
-- **[Probabilistic robotics from scratch](https://github.com/martinbianchi0/probabilistic-robotics-from-scratch)** — motion models, a discrete Bayes filter, Monte Carlo localization, an EKF split across two ROS 2 nodes, FastSLAM, and six path planners measured against each other. The individual build-up to the maze robot above: three of the components it runs were written here first.
+- **[Probabilistic robotics from scratch](https://github.com/martinbianchi0/probabilistic-robotics-from-scratch)** — samplers, an odometry motion model, a discrete Bayes filter, Monte Carlo localization, both EKF Jacobians, a Rao-Blackwellized FastSLAM where every particle carries its own landmark map, and six path planners measured against each other. The individual build-up to the maze robot above — its MCL and its A\* were written here first — with a **per-stage provenance section separating the course's scaffolding from my own code**.
 - **[Classical computer vision](https://github.com/martinbianchi0/Vision-Learning)** — panoramas, segmentation and stereo 3D reconstruction, with **homography estimation written from scratch** (DLT via SVD + a hand-rolled RANSAC), not `cv2.findHomography`.
 - **[ML from scratch](https://github.com/martinbianchi0/Machine-Learning)** — regression, classification, an MLP with backpropagation and ADAM, and unsupervised methods. **No scikit-learn: the assignment forbade ML libraries.**
 - **[mlflow casero](https://github.com/martinbianchi0/mlflow-casero)** — a PostgreSQL schema for ML experiment traceability, where reproducibility is enforced by constraints rather than documentation.
