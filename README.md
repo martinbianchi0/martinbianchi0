@@ -1,6 +1,6 @@
 ## Hi, I'm Martín 👋
 
-Fourth-year **AI Engineering** student at Universidad de San Andrés, Buenos Aires. AI and process automation at Aleph. Open to **AI/ML engineering internships and junior roles**.
+Fourth-year **AI Engineering** student at Universidad de San Andrés, Buenos Aires. AI and process automation at Aleph.
 
 End-to-end ML systems — dataset, model, evaluation, demo — across **computer vision, NLP and LLMs, speech and audio, and robotics**.
 
